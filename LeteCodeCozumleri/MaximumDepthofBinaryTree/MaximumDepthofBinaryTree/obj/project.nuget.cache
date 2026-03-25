@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Z/a5RpSby4g=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\selin\\Desktop\\LeteCodeCozumleri\\MaximumDepthofBinaryTree\\MaximumDepthofBinaryTree\\MaximumDepthofBinaryTree.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\selin\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.21.0\\microsoft.visualstudio.azure.containers.tools.targets.1.21.0.nupkg.sha512"
+  ],
+  "logs": []
+}
